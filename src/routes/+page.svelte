@@ -1,0 +1,1 @@
+Go to the custom page then go back: the title should reset but it doesn't.
